@@ -4,7 +4,7 @@
       "brand": {
         "title": "ShipAny Chat",
         "logo": {
-          "src": "/logo.png",
+          "src": "/logo.avif",
           "alt": "ShipAny Chat"
         },
         "url": "/chat"

@@ -70,7 +70,7 @@ export function PaymentProviders({
     providers.push({
       name: 'stripe',
       title: 'Stripe',
-      icon_url: '/imgs/icons/stripe.png',
+      icon_url: '/imgs/icons/stripe.avif',
       onClick: () => handlePayment({ provider: 'stripe' }),
     });
   }
@@ -79,7 +79,7 @@ export function PaymentProviders({
     providers.push({
       name: 'creem',
       title: 'Creem',
-      icon_url: '/imgs/icons/creem.png',
+      icon_url: '/imgs/icons/creem.avif',
       onClick: () => handlePayment({ provider: 'creem' }),
     });
   }

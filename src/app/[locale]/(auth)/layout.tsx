@@ -17,7 +17,7 @@ export default function AuthLayout({
           brand={{
             title: envConfigs.app_name,
             logo: {
-              src: '/logo.png',
+              src: '/logo.avif',
               alt: envConfigs.app_name,
             },
             url: '/',
